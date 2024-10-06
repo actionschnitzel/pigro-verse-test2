@@ -1,0 +1,41 @@
+Package: freetube
+Version: 0.21.3
+Architecture: amd64
+Maintainer: PrestonN <FreeTubeApp@protonmail.com>
+Installed-Size: 268696
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: ./freetube_0.21.3_amd64.deb
+Size: 75556992
+MD5sum: 844fec3dd9abf50a24eab6ca16d9a29d
+SHA1: 9534464c64de49dcdae9c7897581eafdac52a9d2
+SHA256: bf8649c7b384cd50178d6c887371472916bfdacb9971e939c35ddbe4ab3adc08
+Section: default
+Priority: optional
+Homepage: https://github.com/FreeTubeApp/FreeTube#readme
+Description:
+  A private YouTube client
+License: AGPL-3.0-or-later
+Vendor: PrestonN <FreeTubeApp@protonmail.com>
+
+Package: pigro-jci
+Version: 24.04
+Architecture: all
+Maintainer: Timo Westphal <pigroxtrmo@gmail.com>
+Depends: python3-dev, python3-psutil, python3-distro, python3-bs4, python3-requests, python3-pil, python3-pil.imagetk, xterm, mpg123, lolcat, wmctrl, gdebi, mousepad, appstream, pkexec | policykit-1
+Filename: ./pigro-jci-24.04.deb
+Size: 4195428
+MD5sum: 6d7cacded0260bb5c645638c94fdf695
+SHA1: 917c0a1a9aa8897e013b3e4ab21ba00dbd987038
+SHA256: 7ee87aeeb29ba433e46a91e8f9721a3c35b3827644a0bc9a99ab84df2df60843
+Section: misc
+Priority: optional
+Homepage: https://zestful-pigroxtrmo.wordpress.com/
+Description: A system control tool for Raspberry Pi
+ PiGro is a system configuration tool inspired by openSUSE's YaST
+ but designed with the user-friendliness of Linux Mint in mind.
+ It equips Raspberry Pi OS with graphical interfaces for tasks
+ that would otherwise require the terminal.
+ PiGro is also optimized for Ubuntu, Ubuntu Mate, and MX Linux.
+License: GPL-3.0
+

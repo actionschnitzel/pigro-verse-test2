@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/pigro-verse-test2-key.gpg] https://actionschnitzel.github.io/pigro-verse-test2 ./
