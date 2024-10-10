@@ -19,3 +19,24 @@ Description: A system control tool for Raspberry Pi
  PiGro is also optimized for Ubuntu, Ubuntu Mate, and MX Linux.
 License: GPL-3.0
 
+Package: stat-denver-tools
+Version: 0.01
+Architecture: all
+Maintainer: Timo Westphal <pigroxtrmo@gmail.com>
+Depends: yad
+Filename: ./stat-denver-tools-0.01.deb
+Size: 14050
+MD5sum: de757c0582447d2f153a7a52bab0ff38
+SHA1: 6adbf9a84fea651baf53ffd1131752a80ce4b722
+SHA256: 1857ee83953f3f1cc8f52406126ac8783dd4d068c5361dd8d894d9f88bbc3340
+Section: misc
+Priority: optional
+Homepage: https://zestful-pigroxtrmo.wordpress.com/
+Description: A system control tool for Raspberry Pi
+ PiGro is a system configuration tool inspired by openSUSE's YaST
+ but designed with the user-friendliness of Linux Mint in mind.
+ It equips Raspberry Pi OS with graphical interfaces for tasks
+ that would otherwise require the terminal.
+ PiGro is also optimized for Ubuntu, Ubuntu Mate, and MX Linux.
+License: GPL-3.0
+
