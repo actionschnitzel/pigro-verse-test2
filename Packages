@@ -1,3 +1,19 @@
+Package: lightpad
+Source: com.github.libredeb.lightpad
+Version: 0.0.8~rev1
+Architecture: amd64
+Maintainer: Juan Pablo Lozano <libredeb@gmail.com>
+Installed-Size: 225
+Depends: libc6 (>= 2.4), libcairo2 (>= 1.2.4), libgdk-pixbuf2.0-0 (>= 2.22.0), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.50.0), libgnome-menu-3-0 (>= 3.13.0), libgtk-3-0 (>= 3.22.0), gnome-menus (>= 3.13.0), libwnck-3-0 (>= 3.20.0), xterm
+Filename: ./lightpad_0.0.8.rev1_amd64.deb
+Size: 31612
+MD5sum: 0b29ef09d2545715bbc45467c7da0283
+SHA1: dcfdbf54c9a2e45431e8992dc2823d76f33a9f18
+SHA256: a5496ac859537bac119abd318ac45c6dbf6365886943933c8e18d2635d1a1dae
+Section: x11
+Priority: optional
+Description: LightPad is a lightweight, simple and powerful application launcher. Writen in GTK+ 3.0. It is also Wayland compatible.
+
 Package: primo-di-tutto
 Version: 0.1
 Architecture: all
