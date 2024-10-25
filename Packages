@@ -110,6 +110,24 @@ Description: A system control tool for Raspberry Pi
  but designed with the user-friendliness of Linux Mint in mind.
 License: GPL-3.0
 
+Package: primo-di-tutto
+Version: 0.4.6
+Architecture: all
+Maintainer: Timo Westphal <pigroxtrmo@gmail.com>
+Depends: python3-dev, python3-psutil, python3-distro, python3-bs4, python3-requests, python3-pil, python3-pil.imagetk, xterm, mpg123, lolcat, wmctrl, gdebi, mousepad, appstream, pkexec | policykit-1
+Filename: ./primo-di-tutto-0.4.6.deb
+Size: 2466316
+MD5sum: f063630a5457cf922674fe62dd3fa620
+SHA1: dffcd3d1d6739e6b674ea0c7df9d9d3fa12f7674
+SHA256: 1c592437451ca7081f4c0eee9295885df13ac65dafb7890ded4d3f5b29ef0931
+Section: misc
+Priority: optional
+Homepage: https://zestful-pigroxtrmo.wordpress.com/
+Description: A system control tool for Raspberry Pi
+ PiGro is a system configuration tool inspired by openSUSE's YaST
+ but designed with the user-friendliness of Linux Mint in mind.
+License: GPL-3.0
+
 Package: stat-denver-tools
 Version: 0.01
 Architecture: all
