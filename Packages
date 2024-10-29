@@ -1,3 +1,20 @@
+Package: guideos-icons
+Version: 1.0.0
+Architecture: all
+Maintainer: Timo Westphal <pigroxtrmo@gmail.com>
+Filename: ./guideos-icons-1.0.0.deb
+Size: 93440
+MD5sum: 8ca242b72e176952d600da017b1f4de0
+SHA1: 3ffd00ba21a49e5351ebd44161661571c76cf5f5
+SHA256: 70adfd96012e12d80a57481744623c43b4b94b1a518e670bdc60c9a8e41ca6a1
+Section: misc
+Priority: optional
+Homepage: https://github.com/username/guideos-icons
+Description: GuideOS Icon Package
+ A custom icon package for GuideOS, featuring scalable and symbolic icons
+ for a clean and modern look.
+License: GPL-3.0
+
 Package: lightpad
 Source: com.github.libredeb.lightpad
 Version: 0.0.8~rev1
