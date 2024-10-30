@@ -1,3 +1,19 @@
+Package: communitywallpapers
+Version: 1.0.0
+Architecture: all
+Maintainer: Action Schnitzel <pigroxtrmo@gmail.com>
+Filename: ./communitywallpapers-1.0.0.deb
+Size: 11753428
+MD5sum: f7ebaa88838d4d96b5f641e162b20101
+SHA1: 6ab245917894106ce30218166777f5cddac57e45
+SHA256: 7bf33132de93cdb664ca59c041389e14c5c101a59e2a1000cf8fb7d54f148f2d
+Section: graphics
+Priority: optional
+Homepage: https://example.com/
+Description: A collection of wallpapers for desktop
+ This package includes various wallpapers for your desktop background.
+License: GPL-3.0
+
 Package: guideos-icons
 Version: 1.0.0
 Architecture: all
