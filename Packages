@@ -200,3 +200,19 @@ Description: A system control tool for Raspberry Pi
  PiGro is also optimized for Ubuntu, Ubuntu Mate, and MX Linux.
 License: GPL-3.0
 
+Package: wp-evilware
+Version: 1.0.0
+Architecture: all
+Maintainer: Action Schnitzel <pigroxtrmo@gmail.com>
+Filename: ./wp-evilware-1.0.0.deb
+Size: 24055478
+MD5sum: 1e8dd9b67868a6e6e2a5b00aa7c54104
+SHA1: 0710ba26fa6c60af5478e77ea3b7628c6c1e94f9
+SHA256: 8cf1258eb8686497672de24b9f05b92665f2b95416d3a3825727231958adc56a
+Section: graphics
+Priority: optional
+Homepage: https://example.com/
+Description: A collection of wallpapers for desktop
+ This package includes various wallpapers for your desktop background.
+License: GPL-3.0
+
