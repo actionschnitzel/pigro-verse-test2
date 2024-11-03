@@ -31,6 +31,23 @@ Description: GuideOS Icon Package
  for a clean and modern look.
 License: GPL-3.0
 
+Package: guideos-sys-mods
+Version: 1.0
+Architecture: all
+Maintainer: Timo Westphal <pigroxtrmo@gmail.com>
+Depends: bash
+Filename: ./guideos-sys-mods-1.0.deb
+Size: 1504
+MD5sum: eed79ce2c671c13d71f0d545e877d068
+SHA1: a4998a3e6483e1e73f4628c413d438292c2be691
+SHA256: a8bb0e9fee7196a3508ccca109e138ddc66ceeb8bca2e4d0d926110fae5bf10d
+Section: utils
+Priority: optional
+Homepage: https://github.com/your-repo/gos
+Description: A script to update system packages
+ This package includes a script that can update APT, Flatpak, and Snap packages.
+License: GPL-3
+
 Package: lightpad
 Source: com.github.libredeb.lightpad
 Version: 0.0.8~rev1
