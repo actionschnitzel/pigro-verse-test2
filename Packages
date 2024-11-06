@@ -14,6 +14,22 @@ Description: A collection of wallpapers for desktop
  This package includes various wallpapers for your desktop background.
 License: GPL-3.0
 
+Package: communitywallpapers
+Version: 1.0.1
+Architecture: all
+Maintainer: Action Schnitzel <pigroxtrmo@gmail.com>
+Filename: ./communitywallpapers-1.0.1.deb
+Size: 12481876
+MD5sum: 1e4da658cadd2f03085a7ea6e43924fc
+SHA1: 47fd3ee7eb08b9728145edc2b8b97940b1009fe5
+SHA256: 0f2b53a5081d75931c22fb54547611a1a0085091874b1746e736742868d32903
+Section: graphics
+Priority: optional
+Homepage: https://example.com/
+Description: A collection of wallpapers for desktop
+ This package includes various wallpapers for your desktop background.
+License: GPL-3.0
+
 Package: guideos-icons
 Version: 1.0.0
 Architecture: all
@@ -40,6 +56,23 @@ Size: 95372
 MD5sum: 3c16ca06c9c8e13138ce044fe72ed180
 SHA1: 554262270014142b8cc28a3b5df51d9652332f21
 SHA256: e2a849148e9b39c583ab3178b6397ed6af0bab6b1f7165969a0e6320d873ddc7
+Section: misc
+Priority: optional
+Homepage: https://github.com/username/guideos-icons
+Description: GuideOS Icon Package
+ A custom icon package for GuideOS, featuring scalable and symbolic icons
+ for a clean and modern look.
+License: GPL-3.0
+
+Package: guideos-icons
+Version: 1.0.2
+Architecture: all
+Maintainer: Timo Westphal <pigroxtrmo@gmail.com>
+Filename: ./guideos-icons-1.0.2.deb
+Size: 93436
+MD5sum: ad6eb04fdd876ecedcc4d21799b2448f
+SHA1: 9f9b0d17bef2e265018607c907982e2e491e3221
+SHA256: a2e36f1b19d58c159cfaad915e6fb88e508c0d6c8ad5e7d56d97db74d2c368f6
 Section: misc
 Priority: optional
 Homepage: https://github.com/username/guideos-icons
@@ -223,6 +256,24 @@ Size: 4278696
 MD5sum: 2db7c99cc9af4184f1017ea88cebc1b9
 SHA1: 5a95be1e863a962257a0a8df3d04fbbde8cf6c7a
 SHA256: fd405e5d7ca04dec238d628d42fb362f9a4396e7f9558c9ffe40bfa36583236a
+Section: misc
+Priority: optional
+Homepage: https://zestful-pigroxtrmo.wordpress.com/
+Description: A system control tool for Raspberry Pi
+ PiGro is a system configuration tool inspired by openSUSE's YaST
+ but designed with the user-friendliness of Linux Mint in mind.
+License: GPL-3.0
+
+Package: primo-di-tutto
+Version: 0.4.9
+Architecture: all
+Maintainer: Timo Westphal <pigroxtrmo@gmail.com>
+Depends: python3-dev, python3-psutil, python3-distro, python3-bs4, python3-requests, python3-pil, python3-pil.imagetk, guideos-sys-mods, xterm, mpg123, lolcat, wmctrl, gdebi, mousepad, appstream, libnotify-bin, pkexec | policykit-1
+Filename: ./primo-di-tutto-0.4.9.deb
+Size: 11028756
+MD5sum: 6ae1008ae7fedc9aaa18216f4581bcb2
+SHA1: 976ccf6a2da7cb2c57e9ecd22b5a588e3114bec2
+SHA256: ac7f9ed75a98914a1f4bba86ef963219d4bc344fc7bb654d950430858991dcc1
 Section: misc
 Priority: optional
 Homepage: https://zestful-pigroxtrmo.wordpress.com/
