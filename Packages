@@ -303,6 +303,24 @@ Description: A system control tool for Raspberry Pi
  PiGro is also optimized for Ubuntu, Ubuntu Mate, and MX Linux.
 License: GPL-3.0
 
+Package: white-sure-theme
+Version: 24.09.02
+Architecture: all
+Maintainer: Timo Westphal <pigroxtrmo@gmail.com>
+Depends: libglib2.0-dev-bin, sassc, libxml2-utils
+Filename: ./white-sure-theme-24.09.02.deb
+Size: 300944
+MD5sum: 2906bf5cc18011d363f0bceead3c23a8
+SHA1: 669584e69e9ad3c833a2ef92efdc937e45026678
+SHA256: a272b4319e23d6cfeb5ab1a929b8f9f5717af4616cbce65135c3059b09b7e89a
+Section: misc
+Priority: optional
+Homepage: https://github.com/username/white-sure-theme
+Description: A modern looking GTK Theme
+ A custom theme package for GuideOS, featuring scalable and symbolic icons
+ for a clean and modern look.
+License: MIT
+
 Package: wp-evilware
 Version: 1.0.0
 Architecture: all
