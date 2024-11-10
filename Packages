@@ -354,3 +354,26 @@ Description: A collection of wallpapers for desktop
  This package includes various wallpapers for your desktop background.
 License: GPL-3.0
 
+Package: zeit
+Version: 0.6.95~guideos1
+Architecture: amd64
+Maintainer: actionschnitzel <pigroxtrmo@gmail.com>
+Installed-Size: 305
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libkf5authcore5 (>= 5.61.0), libqt5core5t64 (>= 5.15.1), libqt5gui5t64 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5widgets5t64 (>= 5.14.1), libstdc++6 (>= 5), libnotify-bin
+Recommends: at
+Suggests: mpv | mplayer
+Filename: ./zeit-0.6.95~guideos1.deb
+Size: 142500
+MD5sum: d8189c855461f5de9e328cc4238181aa
+SHA1: bb87b30f3d201cf14624e04374c0ddd46857d1c7
+SHA256: 5047eb186870f2d86423bbcecb95b68430d29b6a1f6220d00637e0080b8b3a11
+Section: admin
+Priority: extra
+Homepage: https://bitbucket.org/blaze/zeit
+Description: Qt GUI to crontab and at console tools
+ Features:
+   - easily creates and modifies crontab tasks
+   - alarms
+   - timers (using "at" utility)
+   - superuser actions for regular users with the help of PolKit and KAuth library
+
