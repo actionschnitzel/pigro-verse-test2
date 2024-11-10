@@ -1,3 +1,20 @@
+Package: advert-block
+Version: 0.2.8+peppermint10.0.0.1
+Architecture: all
+Maintainer: anticapitalista <antiX@operamail.com>
+Installed-Size: 79
+Depends: wget, policykit-1, zenity
+Filename: ./advert-block_0.2.8+peppermint10.0.0.1_all.deb
+Size: 19808
+MD5sum: 3357b400c7e614186447c43056e84063
+SHA1: 76ae08d6e42097828b6a0d0ae59f8cb6b23ea9ba
+SHA256: b09b948aace6586fb2fcbf0a1faf4869fc200d6c0a6b5772ceda75519da8ef5f
+Section: admin
+Priority: optional
+Homepage: http://antix.mepis.org
+Description: Script and Desktop launcher for advert block,
+ based on the website add blocker for antiX.
+
 Package: communitywallpapers
 Version: 1.0.0
 Architecture: all
@@ -291,6 +308,24 @@ Size: 11028756
 MD5sum: 6ae1008ae7fedc9aaa18216f4581bcb2
 SHA1: 976ccf6a2da7cb2c57e9ecd22b5a588e3114bec2
 SHA256: ac7f9ed75a98914a1f4bba86ef963219d4bc344fc7bb654d950430858991dcc1
+Section: misc
+Priority: optional
+Homepage: https://zestful-pigroxtrmo.wordpress.com/
+Description: A system control tool for Raspberry Pi
+ PiGro is a system configuration tool inspired by openSUSE's YaST
+ but designed with the user-friendliness of Linux Mint in mind.
+License: GPL-3.0
+
+Package: primo-di-tutto
+Version: 0.5.0
+Architecture: all
+Maintainer: Timo Westphal <pigroxtrmo@gmail.com>
+Depends: python3-dev, python3-psutil, python3-distro, python3-bs4, python3-requests, python3-pil, python3-pil.imagetk, guideos-sys-mods, xterm, mpg123, lolcat, wmctrl, gdebi, mousepad, appstream, libnotify-bin, pkexec | policykit-1
+Filename: ./primo-di-tutto-0.5.0.deb
+Size: 20155952
+MD5sum: 96ab1836189f7d2c177205ad53092fc7
+SHA1: 87d0cf60ec17a5de7bbd30edcd4f8f4bd0b873ba
+SHA256: 257acbf3e23e20417d2e9acde15b98e25f0ed024a4f621d758094ef4c31e039b
 Section: misc
 Priority: optional
 Homepage: https://zestful-pigroxtrmo.wordpress.com/
