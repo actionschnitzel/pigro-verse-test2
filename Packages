@@ -165,6 +165,24 @@ Description: A script to update system packages
  This package includes a script that can update APT, Flatpak, and Snap packages.
 License: GPL-3
 
+Package: guideos-ticket-tool
+Version: 0.0.1
+Architecture: all
+Maintainer: Timo Westphal <xxx@gmail.com>
+Installed-Size: 372
+Depends: python3
+Filename: ./guideos-ticket-tool_0.0.1_all.deb
+Size: 92928
+MD5sum: dd052e60428cb378f92d7e0523b633b6
+SHA1: 0f09fe9aea175d07b5d01866f10fb47876154188
+SHA256: 730ed203fe205ce4c9d64ce51bd52900923685e14209409cb822bd09b2c25ec4
+Section: misc
+Priority: optional
+Homepage: https://rueegger.me
+Description: Bug report tool for Linux Guide OS
+ Primo Di Tutto is a system configuration tool inspired by openSUSE's YaST
+ but designed with the user-friendliness of Linux Mint in mind.
+
 Package: lightpad
 Source: com.github.libredeb.lightpad
 Version: 0.0.8~rev1
