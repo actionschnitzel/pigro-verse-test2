@@ -132,6 +132,23 @@ Description: A script to update system packages
  This package includes a script that can update APT, Flatpak, and Snap packages.
 License: GPL-3
 
+Package: guideos-sys-mods
+Version: 1.1
+Architecture: all
+Maintainer: Timo Westphal <pigroxtrmo@gmail.com>
+Depends: bash
+Filename: ./guideos-sys-mods-1.1.deb
+Size: 1456
+MD5sum: 24578861571d9ede6a8f65af4c6768b3
+SHA1: 2d2c8b31c4577dedf5c50d59b55355e2a7ab1774
+SHA256: 39892c61aec679b3cc631c9f624399e00c9e8ee25fc61a2d735b19736788eb78
+Section: utils
+Priority: optional
+Homepage: https://github.com/your-repo/gos
+Description: A script to update system packages
+ This package includes a script that can update APT, Flatpak, and Snap packages.
+License: GPL-3
+
 Package: lightpad
 Source: com.github.libredeb.lightpad
 Version: 0.0.8~rev1
