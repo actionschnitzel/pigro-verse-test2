@@ -131,6 +131,23 @@ Description: GuideOS Icon Package
  for a clean and modern look.
 License: GPL-3.0
 
+Package: guideos-icons
+Version: 1.0.4
+Architecture: all
+Maintainer: Timo Westphal <pigroxtrmo@gmail.com>
+Filename: ./guideos-icons-1.0.4.deb
+Size: 4062764
+MD5sum: ae97846114eddc67e6cd013b669292ec
+SHA1: 9f846b7f415ccb9d015a491789a8dfde2a2efc65
+SHA256: fa4578e4e4132ff40512a39886bb7e08881dd95b3065d36fea90f09ce7b83b6f
+Section: misc
+Priority: optional
+Homepage: https://github.com/username/guideos-icons
+Description: GuideOS Icon Package
+ A custom icon package for GuideOS, featuring scalable and symbolic icons
+ for a clean and modern look.
+License: GPL-3.0
+
 Package: guideos-sys-mods
 Version: 1.0
 Architecture: all
