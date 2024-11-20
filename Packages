@@ -47,6 +47,22 @@ Description: A collection of wallpapers for desktop
  This package includes various wallpapers for your desktop background.
 License: GPL-3.0
 
+Package: communitywallpapers
+Version: 1.0.2
+Architecture: all
+Maintainer: Action Schnitzel <pigroxtrmo@gmail.com>
+Filename: ./communitywallpapers-1.0.2.deb
+Size: 28039984
+MD5sum: a2044b6eae4706d80ef4266eaff7c6d7
+SHA1: bdcbd0c80497028a2d9469b66628beb3af6ff917
+SHA256: 53f60602604a37680f1331edf9dfcdeb21251ef254c885aa2d367bf59d753601
+Section: graphics
+Priority: optional
+Homepage: https://example.com/
+Description: A collection of wallpapers for desktop
+ This package includes various wallpapers for your desktop background.
+License: GPL-3.0
+
 Package: guideos-icons
 Version: 1.0.0
 Architecture: all
