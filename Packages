@@ -547,6 +547,22 @@ Description: A collection of wallpapers for desktop
  This package includes various wallpapers for your desktop background.
 License: GPL-3.0
 
+Package: wp-evilware
+Version: 1.0.1
+Architecture: all
+Maintainer: Action Schnitzel <pigroxtrmo@gmail.com>
+Filename: ./wp-evilware-1.0.1.deb
+Size: 44760628
+MD5sum: 2ce8a0f72af6b90d636af7f7496f1dbb
+SHA1: d4423b6d2abc7199ac496d7a811fae1fa1259674
+SHA256: 4cb482b6010fbb71265c83de7e2593f36cb16877a84e05d9319e1a17725f17d1
+Section: graphics
+Priority: optional
+Homepage: https://example.com/
+Description: A collection of wallpapers for desktop
+ This package includes various wallpapers for your desktop background.
+License: GPL-3.0
+
 Package: zeit
 Version: 0.6.95~guideos1
 Architecture: amd64
