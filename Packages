@@ -148,6 +148,23 @@ Description: GuideOS Icon Package
  for a clean and modern look.
 License: GPL-3.0
 
+Package: guideos-icons
+Version: 1.0.6
+Architecture: all
+Maintainer: Timo Westphal <pigroxtrmo@gmail.com>
+Filename: ./guideos-icons-1.0.6.deb
+Size: 4063176
+MD5sum: e0af23d5f34756e671319ab9e0b4be8c
+SHA1: 79e08e757c6dd6bcf58bbebb235c676270fa98cf
+SHA256: 7523bd24bdeef285213398dbc538e22324cf9f92986ae6e46c234ad73c54a95e
+Section: misc
+Priority: optional
+Homepage: https://github.com/username/guideos-icons
+Description: GuideOS Icon Package
+ A custom icon package for GuideOS, featuring scalable and symbolic icons
+ for a clean and modern look.
+License: GPL-3.0
+
 Package: guideos-sys-mods
 Version: 1.0
 Architecture: all
@@ -175,6 +192,23 @@ Size: 1456
 MD5sum: 24578861571d9ede6a8f65af4c6768b3
 SHA1: 2d2c8b31c4577dedf5c50d59b55355e2a7ab1774
 SHA256: 39892c61aec679b3cc631c9f624399e00c9e8ee25fc61a2d735b19736788eb78
+Section: utils
+Priority: optional
+Homepage: https://github.com/your-repo/gos
+Description: A script to update system packages
+ This package includes a script that can update APT, Flatpak, and Snap packages.
+License: GPL-3
+
+Package: guideos-sys-mods
+Version: 1.3
+Architecture: all
+Maintainer: Timo Westphal <pigroxtrmo@gmail.com>
+Depends: bash, communitywallpapers, guideos-icons, guideos-sys-mods, guideos-ticket-tool, lightpad, primo-di-tutto, stat-denver-tools, white-sure-theme, wp-evilware, lolcat
+Filename: ./guideos-sys-mods-1.3.deb
+Size: 1684
+MD5sum: 01b2a7d2ee2c925de55b466e244b6698
+SHA1: 66133af2e2adaa09653365b094d518ffe07f4e95
+SHA256: 3e41f311232575ed1d30a1745c85b0ec35290d639de428be36af7a41b3fd3e4f
 Section: utils
 Priority: optional
 Homepage: https://github.com/your-repo/gos
