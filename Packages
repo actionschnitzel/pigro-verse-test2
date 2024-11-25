@@ -562,6 +562,24 @@ Description: A system control tool for Linux Guide OS
  Primo Di Tutto is a system configuration tool inspired by openSUSE's YaST
  but designed with the user-friendliness of Linux Mint in mind.
 
+Package: primo-di-tutto
+Version: 0.6.0
+Architecture: all
+Maintainer: Timo Westphal <xxx@gmail.com>
+Installed-Size: 26104
+Depends: python3, plank, synaptic, python3-dev, python3-psutil, python3-distro, python3-bs4, python3-requests, python3-pil, python3-pil.imagetk, xterm, mpg123, lolcat, wmctrl, gdebi, mousepad, appstream, pkexec | policykit-1
+Filename: ./primo-di-tutto_0.6.0_all.deb
+Size: 24622096
+MD5sum: 798a12e6ff35fb4dcd45cac12d1f5b33
+SHA1: b4a3c97eb5fb894f7c7029c52d2e601ead763a9a
+SHA256: 913ff47d829a946a1bde2d071ab36f4b6bf06af02422461a231a9da47174a70d
+Section: misc
+Priority: optional
+Homepage: https://rueegger.me
+Description: A system control tool for Linux Guide OS
+ Primo Di Tutto is a system configuration tool inspired by openSUSE's YaST
+ but designed with the user-friendliness of Linux Mint in mind.
+
 Package: stat-denver-tools
 Version: 0.01
 Architecture: all
