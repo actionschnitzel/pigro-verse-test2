@@ -234,6 +234,41 @@ Description: Bug report tool for Linux Guide OS
  Primo Di Tutto is a system configuration tool inspired by openSUSE's YaST
  but designed with the user-friendliness of Linux Mint in mind.
 
+Package: guideos-ticket-tool
+Version: 0.0.2
+Architecture: all
+Maintainer: Actionschnitzel <actionschnitzel@guideos.de>
+Installed-Size: 373
+Depends: python3
+Filename: ./guideos-ticket-tool_0.0.2_all.deb
+Size: 91212
+MD5sum: b8307a4303b1519d2312be2a9096a013
+SHA1: c03d9f043b8f8a50d7fe1b2e16b613f3b703056b
+SHA256: cf30d99ec7e652a93de8e7eb106db4624b37e8ebce5bdb82b4823147b5cc64cc
+Section: misc
+Priority: optional
+Homepage: https://rueegger.me
+Description: Bug report tool for Linux Guide OS
+ Primo Di Tutto is a system configuration tool inspired by openSUSE's YaST
+ but designed with the user-friendliness of Linux Mint in mind.
+
+Package: guideos-update-notify
+Version: 0.1
+Architecture: all
+Maintainer: Actionschnitzel <actionschnitzel@guideos.de>
+Installed-Size: 31
+Depends: python3, bash
+Filename: ./guideos-update-notify_0.1_all.deb
+Size: 15000
+MD5sum: 5820cf6383be6a7ecd2a6823e0728cd1
+SHA1: ed2dd236f050be4e0cbd0ccb332fea05d27043bb
+SHA256: e1f73f084e40d0b70408e0e8c387ebc1814c8cebdc6251991e368e9b367a7115
+Section: misc
+Priority: optional
+Homepage: https://rueegger.me
+Description: A tool to check for updates
+ This tool starts on login an runs ever three hours
+
 Package: lightpad
 Source: com.github.libredeb.lightpad
 Version: 0.0.8~rev1
@@ -591,6 +626,24 @@ Size: 24701046
 MD5sum: ca47ad923885cb68371eece097a3b363
 SHA1: 45084b72f51678c241808a3883e168968ff36350
 SHA256: 9c2be6bb3de08f06e30d63f56b99a6ec74c64b19d86ded96bfa43cc6fabcea59
+Section: misc
+Priority: optional
+Homepage: https://rueegger.me
+Description: A system control tool for Linux Guide OS
+ Primo Di Tutto is a system configuration tool inspired by openSUSE's YaST
+ but designed with the user-friendliness of Linux Mint in mind.
+
+Package: primo-di-tutto
+Version: 0.6.2
+Architecture: all
+Maintainer: Timo Westphal <xxx@gmail.com>
+Installed-Size: 26014
+Depends: python3, plank, synaptic, python3-dev, python3-psutil, python3-distro, python3-bs4, python3-requests, python3-pil, python3-pil.imagetk, xterm, mpg123, lolcat, wmctrl, gdebi, mousepad, appstream, pkexec | policykit-1
+Filename: ./primo-di-tutto_0.6.2_all.deb
+Size: 24536832
+MD5sum: c5911c8d5b65b20f8ca274e7a5724331
+SHA1: c563f5b8d1e0bef4c52e5700bc3934fa577010c4
+SHA256: 50ba8d8c9e0d151482b839c09dff5967a3e1f40e23fc0d62eee050f4b6aa9caa
 Section: misc
 Priority: optional
 Homepage: https://rueegger.me
